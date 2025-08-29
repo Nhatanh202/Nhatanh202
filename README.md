@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Hello! I'm Nhat Anh</h1>
+<h1 align="left">🚀 Hello! I'm Nhat Anh</h1>
+<div align="left;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhhaXJzZWVyOGloZ3EwZXk5ZWpjbWRkeHFobHZjeXFocndnejI5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+</div>
 
-<div align="center">
-  <img src="![gif](https://github.com/user-attachments/assets/5904eae2-fe90-48e7-a0b9-b07a426dcc46)
-" width="200"/>
 💫 About Nhatanh202:
 My full name is Nguyen Nhat Anh.🧒<br>I'm from Vietnam. <br>Hobbies: Photography , listening to music, traveling.<br>Favorite food: coffee ☕, bread 🥖. 
 
